@@ -164,11 +164,14 @@ const drawLayer = async (_layer, _rendering) => {
     console.log(`Load Layer Image: ${_layer.location}${element.fileName}`)
     const image = await loadImage(`${_layer.location}${element.fileName}`);
     
+    /* @dev In order to make sure the images are not showing previous images on the canvas */
     if(rendering != _rendering) {
+      /* @dev Clear the previous image canvas data if the current rendering does not match the global rendering */
       clearCanvas();
+      /* @dev Update the global rendering */
       rendering ++;
     }
-    
+
     await ctx.drawImage(
       image,
       _layer.position.x,

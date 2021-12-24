@@ -1,0 +1,2702 @@
+[
+  {
+    "hash": "05119253342",
+    "decodedHash": [
+      {
+        "0": 5
+      },
+      {
+        "1": 19
+      },
+      {
+        "2": 5
+      },
+      {
+        "3": 3
+      },
+      {
+        "4": 2
+      }
+    ],
+    "edition": 1,
+    "date": 1640310122743,
+    "attributes": [
+      {
+        "id": 5,
+        "layer": "weapons",
+        "name": "Gun",
+        "rarity": "original"
+      },
+      {
+        "id": 19,
+        "layer": "skins",
+        "name": "WhiteKnife",
+        "rarity": "original"
+      },
+      {
+        "id": 5,
+        "layer": "accessories",
+        "name": "Halo",
+        "rarity": "original"
+      },
+      {
+        "id": 3,
+        "layer": "eyes",
+        "name": "AsianEyePatch",
+        "rarity": "original"
+      },
+      {
+        "id": 2,
+        "layer": "clothing",
+        "name": "HalfShoulder",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "0218273743",
+    "decodedHash": [
+      {
+        "0": 2
+      },
+      {
+        "1": 8
+      },
+      {
+        "2": 7
+      },
+      {
+        "3": 7
+      },
+      {
+        "4": 3
+      }
+    ],
+    "edition": 2,
+    "date": 1640310123460,
+    "attributes": [
+      {
+        "id": 2,
+        "layer": "weapons",
+        "name": "BowArrows",
+        "rarity": "original"
+      },
+      {
+        "id": 8,
+        "layer": "skins",
+        "name": "BlackBubbleGum",
+        "rarity": "original"
+      },
+      {
+        "id": 7,
+        "layer": "accessories",
+        "name": "Mohawk",
+        "rarity": "original"
+      },
+      {
+        "id": 7,
+        "layer": "eyes",
+        "name": "Blk_WhEye",
+        "rarity": "original"
+      },
+      {
+        "id": 3,
+        "layer": "clothing",
+        "name": "Hoodie",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "011182103842",
+    "decodedHash": [
+      {
+        "0": 1
+      },
+      {
+        "1": 18
+      },
+      {
+        "2": 10
+      },
+      {
+        "3": 8
+      },
+      {
+        "4": 2
+      }
+    ],
+    "edition": 3,
+    "date": 1640310124176,
+    "attributes": [
+      {
+        "id": 1,
+        "layer": "weapons",
+        "name": "Bat",
+        "rarity": "original"
+      },
+      {
+        "id": 18,
+        "layer": "skins",
+        "name": "WhiteBubbleGum",
+        "rarity": "original"
+      },
+      {
+        "id": 10,
+        "layer": "accessories",
+        "name": "SpartanHelmet",
+        "rarity": "original"
+      },
+      {
+        "id": 8,
+        "layer": "eyes",
+        "name": "Blk_WhEyePatch",
+        "rarity": "original"
+      },
+      {
+        "id": 2,
+        "layer": "clothing",
+        "name": "HalfShoulder",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "03113273243",
+    "decodedHash": [
+      {
+        "0": 3
+      },
+      {
+        "1": 13
+      },
+      {
+        "2": 7
+      },
+      {
+        "3": 2
+      },
+      {
+        "4": 3
+      }
+    ],
+    "edition": 4,
+    "date": 1640310124935,
+    "attributes": [
+      {
+        "id": 3,
+        "layer": "weapons",
+        "name": "Crane",
+        "rarity": "original"
+      },
+      {
+        "id": 13,
+        "layer": "skins",
+        "name": "TiDyeBubbleGum",
+        "rarity": "original"
+      },
+      {
+        "id": 7,
+        "layer": "accessories",
+        "name": "Mohawk",
+        "rarity": "original"
+      },
+      {
+        "id": 2,
+        "layer": "eyes",
+        "name": "AsianEye",
+        "rarity": "original"
+      },
+      {
+        "id": 3,
+        "layer": "clothing",
+        "name": "Hoodie",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "0619253744",
+    "decodedHash": [
+      {
+        "0": 6
+      },
+      {
+        "1": 9
+      },
+      {
+        "2": 5
+      },
+      {
+        "3": 7
+      },
+      {
+        "4": 4
+      }
+    ],
+    "edition": 5,
+    "date": 1640310125708,
+    "attributes": [
+      {
+        "id": 6,
+        "layer": "weapons",
+        "name": "Rocket",
+        "rarity": "original"
+      },
+      {
+        "id": 9,
+        "layer": "skins",
+        "name": "BlackKnife",
+        "rarity": "original"
+      },
+      {
+        "id": 5,
+        "layer": "accessories",
+        "name": "Halo",
+        "rarity": "original"
+      },
+      {
+        "id": 7,
+        "layer": "eyes",
+        "name": "Blk_WhEye",
+        "rarity": "original"
+      },
+      {
+        "id": 4,
+        "layer": "clothing",
+        "name": "Shawl",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "04142931242",
+    "decodedHash": [
+      {
+        "0": 4
+      },
+      {
+        "1": 4
+      },
+      {
+        "2": 9
+      },
+      {
+        "3": 12
+      },
+      {
+        "4": 2
+      }
+    ],
+    "edition": 6,
+    "date": 1640310126392,
+    "attributes": [
+      {
+        "id": 4,
+        "layer": "weapons",
+        "name": "DoubleSword",
+        "rarity": "original"
+      },
+      {
+        "id": 4,
+        "layer": "skins",
+        "name": "AsianKnife",
+        "rarity": "original"
+      },
+      {
+        "id": 9,
+        "layer": "accessories",
+        "name": "SmileMask",
+        "rarity": "original"
+      },
+      {
+        "id": 12,
+        "layer": "eyes",
+        "name": "LaserEyes",
+        "rarity": "original"
+      },
+      {
+        "id": 2,
+        "layer": "clothing",
+        "name": "HalfShoulder",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "031102231544",
+    "decodedHash": [
+      {
+        "0": 3
+      },
+      {
+        "1": 10
+      },
+      {
+        "2": 2
+      },
+      {
+        "3": 15
+      },
+      {
+        "4": 4
+      }
+    ],
+    "edition": 7,
+    "date": 1640310127098,
+    "attributes": [
+      {
+        "id": 3,
+        "layer": "weapons",
+        "name": "Crane",
+        "rarity": "original"
+      },
+      {
+        "id": 10,
+        "layer": "skins",
+        "name": "BlackSmile",
+        "rarity": "original"
+      },
+      {
+        "id": 2,
+        "layer": "accessories",
+        "name": "Crown",
+        "rarity": "original"
+      },
+      {
+        "id": 15,
+        "layer": "eyes",
+        "name": "ZombieEyes",
+        "rarity": "original"
+      },
+      {
+        "id": 4,
+        "layer": "clothing",
+        "name": "Shawl",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "04162831342",
+    "decodedHash": [
+      {
+        "0": 4
+      },
+      {
+        "1": 6
+      },
+      {
+        "2": 8
+      },
+      {
+        "3": 13
+      },
+      {
+        "4": 2
+      }
+    ],
+    "edition": 8,
+    "date": 1640310127813,
+    "attributes": [
+      {
+        "id": 4,
+        "layer": "weapons",
+        "name": "DoubleSword",
+        "rarity": "original"
+      },
+      {
+        "id": 6,
+        "layer": "skins",
+        "name": "Black",
+        "rarity": "original"
+      },
+      {
+        "id": 8,
+        "layer": "accessories",
+        "name": "SamariMask",
+        "rarity": "original"
+      },
+      {
+        "id": 13,
+        "layer": "eyes",
+        "name": "VRGoggles",
+        "rarity": "original"
+      },
+      {
+        "id": 2,
+        "layer": "clothing",
+        "name": "HalfShoulder",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "03111273241",
+    "decodedHash": [
+      {
+        "0": 3
+      },
+      {
+        "1": 11
+      },
+      {
+        "2": 7
+      },
+      {
+        "3": 2
+      },
+      {
+        "4": 1
+      }
+    ],
+    "edition": 9,
+    "date": 1640310128535,
+    "attributes": [
+      {
+        "id": 3,
+        "layer": "weapons",
+        "name": "Crane",
+        "rarity": "original"
+      },
+      {
+        "id": 11,
+        "layer": "skins",
+        "name": "TiDye",
+        "rarity": "original"
+      },
+      {
+        "id": 7,
+        "layer": "accessories",
+        "name": "Mohawk",
+        "rarity": "original"
+      },
+      {
+        "id": 2,
+        "layer": "eyes",
+        "name": "AsianEye",
+        "rarity": "original"
+      },
+      {
+        "id": 1,
+        "layer": "clothing",
+        "name": "Armor",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "01182113244",
+    "decodedHash": [
+      {
+        "0": 1
+      },
+      {
+        "1": 8
+      },
+      {
+        "2": 11
+      },
+      {
+        "3": 2
+      },
+      {
+        "4": 4
+      }
+    ],
+    "edition": 10,
+    "date": 1640310129511,
+    "attributes": [
+      {
+        "id": 1,
+        "layer": "weapons",
+        "name": "Bat",
+        "rarity": "original"
+      },
+      {
+        "id": 8,
+        "layer": "skins",
+        "name": "BlackBubbleGum",
+        "rarity": "original"
+      },
+      {
+        "id": 11,
+        "layer": "accessories",
+        "name": "Tribal Tattoo",
+        "rarity": "original"
+      },
+      {
+        "id": 2,
+        "layer": "eyes",
+        "name": "AsianEye",
+        "rarity": "original"
+      },
+      {
+        "id": 4,
+        "layer": "clothing",
+        "name": "Shawl",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "06132831144",
+    "decodedHash": [
+      {
+        "0": 6
+      },
+      {
+        "1": 3
+      },
+      {
+        "2": 8
+      },
+      {
+        "3": 11
+      },
+      {
+        "4": 4
+      }
+    ],
+    "edition": 11,
+    "date": 1640310130234,
+    "attributes": [
+      {
+        "id": 6,
+        "layer": "weapons",
+        "name": "Rocket",
+        "rarity": "original"
+      },
+      {
+        "id": 3,
+        "layer": "skins",
+        "name": "AsianBubbleGum",
+        "rarity": "original"
+      },
+      {
+        "id": 8,
+        "layer": "accessories",
+        "name": "SamariMask",
+        "rarity": "original"
+      },
+      {
+        "id": 11,
+        "layer": "eyes",
+        "name": "DemonEyes",
+        "rarity": "original"
+      },
+      {
+        "id": 4,
+        "layer": "clothing",
+        "name": "Shawl",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "02110243241",
+    "decodedHash": [
+      {
+        "0": 2
+      },
+      {
+        "1": 10
+      },
+      {
+        "2": 4
+      },
+      {
+        "3": 2
+      },
+      {
+        "4": 1
+      }
+    ],
+    "edition": 12,
+    "date": 1640310130960,
+    "attributes": [
+      {
+        "id": 2,
+        "layer": "weapons",
+        "name": "BowArrows",
+        "rarity": "original"
+      },
+      {
+        "id": 10,
+        "layer": "skins",
+        "name": "BlackSmile",
+        "rarity": "original"
+      },
+      {
+        "id": 4,
+        "layer": "accessories",
+        "name": "GokuHair",
+        "rarity": "original"
+      },
+      {
+        "id": 2,
+        "layer": "eyes",
+        "name": "AsianEye",
+        "rarity": "original"
+      },
+      {
+        "id": 1,
+        "layer": "clothing",
+        "name": "Armor",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "0216243643",
+    "decodedHash": [
+      {
+        "0": 2
+      },
+      {
+        "1": 6
+      },
+      {
+        "2": 4
+      },
+      {
+        "3": 6
+      },
+      {
+        "4": 3
+      }
+    ],
+    "edition": 13,
+    "date": 1640310131715,
+    "attributes": [
+      {
+        "id": 2,
+        "layer": "weapons",
+        "name": "BowArrows",
+        "rarity": "original"
+      },
+      {
+        "id": 6,
+        "layer": "skins",
+        "name": "Black",
+        "rarity": "original"
+      },
+      {
+        "id": 4,
+        "layer": "accessories",
+        "name": "GokuHair",
+        "rarity": "original"
+      },
+      {
+        "id": 6,
+        "layer": "eyes",
+        "name": "Blk_Wh3d",
+        "rarity": "original"
+      },
+      {
+        "id": 3,
+        "layer": "clothing",
+        "name": "Hoodie",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "0714213443",
+    "decodedHash": [
+      {
+        "0": 7
+      },
+      {
+        "1": 4
+      },
+      {
+        "2": 1
+      },
+      {
+        "3": 4
+      },
+      {
+        "4": 3
+      }
+    ],
+    "edition": 14,
+    "date": 1640310132404,
+    "attributes": [
+      {
+        "id": 7,
+        "layer": "weapons",
+        "name": "Sword",
+        "rarity": "original"
+      },
+      {
+        "id": 4,
+        "layer": "skins",
+        "name": "AsianKnife",
+        "rarity": "original"
+      },
+      {
+        "id": 1,
+        "layer": "accessories",
+        "name": "Arrowhead",
+        "rarity": "original"
+      },
+      {
+        "id": 4,
+        "layer": "eyes",
+        "name": "AsianGlasses",
+        "rarity": "original"
+      },
+      {
+        "id": 3,
+        "layer": "clothing",
+        "name": "Hoodie",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "0512233944",
+    "decodedHash": [
+      {
+        "0": 5
+      },
+      {
+        "1": 2
+      },
+      {
+        "2": 3
+      },
+      {
+        "3": 9
+      },
+      {
+        "4": 4
+      }
+    ],
+    "edition": 15,
+    "date": 1640310133092,
+    "attributes": [
+      {
+        "id": 5,
+        "layer": "weapons",
+        "name": "Gun",
+        "rarity": "original"
+      },
+      {
+        "id": 2,
+        "layer": "skins",
+        "name": "AsianBlunt",
+        "rarity": "original"
+      },
+      {
+        "id": 3,
+        "layer": "accessories",
+        "name": "ForeheadDiamond",
+        "rarity": "original"
+      },
+      {
+        "id": 9,
+        "layer": "eyes",
+        "name": "Blk_WhGlasses",
+        "rarity": "original"
+      },
+      {
+        "id": 4,
+        "layer": "clothing",
+        "name": "Shawl",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "05192731541",
+    "decodedHash": [
+      {
+        "0": 5
+      },
+      {
+        "1": 9
+      },
+      {
+        "2": 7
+      },
+      {
+        "3": 15
+      },
+      {
+        "4": 1
+      }
+    ],
+    "edition": 16,
+    "date": 1640310133774,
+    "attributes": [
+      {
+        "id": 5,
+        "layer": "weapons",
+        "name": "Gun",
+        "rarity": "original"
+      },
+      {
+        "id": 9,
+        "layer": "skins",
+        "name": "BlackKnife",
+        "rarity": "original"
+      },
+      {
+        "id": 7,
+        "layer": "accessories",
+        "name": "Mohawk",
+        "rarity": "original"
+      },
+      {
+        "id": 15,
+        "layer": "eyes",
+        "name": "ZombieEyes",
+        "rarity": "original"
+      },
+      {
+        "id": 1,
+        "layer": "clothing",
+        "name": "Armor",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "02192131142",
+    "decodedHash": [
+      {
+        "0": 2
+      },
+      {
+        "1": 9
+      },
+      {
+        "2": 1
+      },
+      {
+        "3": 11
+      },
+      {
+        "4": 2
+      }
+    ],
+    "edition": 17,
+    "date": 1640310134500,
+    "attributes": [
+      {
+        "id": 2,
+        "layer": "weapons",
+        "name": "BowArrows",
+        "rarity": "original"
+      },
+      {
+        "id": 9,
+        "layer": "skins",
+        "name": "BlackKnife",
+        "rarity": "original"
+      },
+      {
+        "id": 1,
+        "layer": "accessories",
+        "name": "Arrowhead",
+        "rarity": "original"
+      },
+      {
+        "id": 11,
+        "layer": "eyes",
+        "name": "DemonEyes",
+        "rarity": "original"
+      },
+      {
+        "id": 2,
+        "layer": "clothing",
+        "name": "HalfShoulder",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "04112273144",
+    "decodedHash": [
+      {
+        "0": 4
+      },
+      {
+        "1": 12
+      },
+      {
+        "2": 7
+      },
+      {
+        "3": 1
+      },
+      {
+        "4": 4
+      }
+    ],
+    "edition": 18,
+    "date": 1640310135186,
+    "attributes": [
+      {
+        "id": 4,
+        "layer": "weapons",
+        "name": "DoubleSword",
+        "rarity": "original"
+      },
+      {
+        "id": 12,
+        "layer": "skins",
+        "name": "TiDyeBlunt",
+        "rarity": "original"
+      },
+      {
+        "id": 7,
+        "layer": "accessories",
+        "name": "Mohawk",
+        "rarity": "original"
+      },
+      {
+        "id": 1,
+        "layer": "eyes",
+        "name": "Asian3d",
+        "rarity": "original"
+      },
+      {
+        "id": 4,
+        "layer": "clothing",
+        "name": "Shawl",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "081202531144",
+    "decodedHash": [
+      {
+        "0": 8
+      },
+      {
+        "1": 20
+      },
+      {
+        "2": 5
+      },
+      {
+        "3": 11
+      },
+      {
+        "4": 4
+      }
+    ],
+    "edition": 19,
+    "date": 1640310136145,
+    "attributes": [
+      {
+        "id": 8,
+        "layer": "weapons",
+        "name": "Trident",
+        "rarity": "original"
+      },
+      {
+        "id": 20,
+        "layer": "skins",
+        "name": "WhiteSmile",
+        "rarity": "original"
+      },
+      {
+        "id": 5,
+        "layer": "accessories",
+        "name": "Halo",
+        "rarity": "original"
+      },
+      {
+        "id": 11,
+        "layer": "eyes",
+        "name": "DemonEyes",
+        "rarity": "original"
+      },
+      {
+        "id": 4,
+        "layer": "clothing",
+        "name": "Shawl",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "04120243244",
+    "decodedHash": [
+      {
+        "0": 4
+      },
+      {
+        "1": 20
+      },
+      {
+        "2": 4
+      },
+      {
+        "3": 2
+      },
+      {
+        "4": 4
+      }
+    ],
+    "edition": 20,
+    "date": 1640310136853,
+    "attributes": [
+      {
+        "id": 4,
+        "layer": "weapons",
+        "name": "DoubleSword",
+        "rarity": "original"
+      },
+      {
+        "id": 20,
+        "layer": "skins",
+        "name": "WhiteSmile",
+        "rarity": "original"
+      },
+      {
+        "id": 4,
+        "layer": "accessories",
+        "name": "GokuHair",
+        "rarity": "original"
+      },
+      {
+        "id": 2,
+        "layer": "eyes",
+        "name": "AsianEye",
+        "rarity": "original"
+      },
+      {
+        "id": 4,
+        "layer": "clothing",
+        "name": "Shawl",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "0317283743",
+    "decodedHash": [
+      {
+        "0": 3
+      },
+      {
+        "1": 7
+      },
+      {
+        "2": 8
+      },
+      {
+        "3": 7
+      },
+      {
+        "4": 3
+      }
+    ],
+    "edition": 21,
+    "date": 1640310137591,
+    "attributes": [
+      {
+        "id": 3,
+        "layer": "weapons",
+        "name": "Crane",
+        "rarity": "original"
+      },
+      {
+        "id": 7,
+        "layer": "skins",
+        "name": "BlackBlunt",
+        "rarity": "original"
+      },
+      {
+        "id": 8,
+        "layer": "accessories",
+        "name": "SamariMask",
+        "rarity": "original"
+      },
+      {
+        "id": 7,
+        "layer": "eyes",
+        "name": "Blk_WhEye",
+        "rarity": "original"
+      },
+      {
+        "id": 3,
+        "layer": "clothing",
+        "name": "Hoodie",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "08172231341",
+    "decodedHash": [
+      {
+        "0": 8
+      },
+      {
+        "1": 7
+      },
+      {
+        "2": 2
+      },
+      {
+        "3": 13
+      },
+      {
+        "4": 1
+      }
+    ],
+    "edition": 22,
+    "date": 1640310138300,
+    "attributes": [
+      {
+        "id": 8,
+        "layer": "weapons",
+        "name": "Trident",
+        "rarity": "original"
+      },
+      {
+        "id": 7,
+        "layer": "skins",
+        "name": "BlackBlunt",
+        "rarity": "original"
+      },
+      {
+        "id": 2,
+        "layer": "accessories",
+        "name": "Crown",
+        "rarity": "original"
+      },
+      {
+        "id": 13,
+        "layer": "eyes",
+        "name": "VRGoggles",
+        "rarity": "original"
+      },
+      {
+        "id": 1,
+        "layer": "clothing",
+        "name": "Armor",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "031132531344",
+    "decodedHash": [
+      {
+        "0": 3
+      },
+      {
+        "1": 13
+      },
+      {
+        "2": 5
+      },
+      {
+        "3": 13
+      },
+      {
+        "4": 4
+      }
+    ],
+    "edition": 23,
+    "date": 1640310139035,
+    "attributes": [
+      {
+        "id": 3,
+        "layer": "weapons",
+        "name": "Crane",
+        "rarity": "original"
+      },
+      {
+        "id": 13,
+        "layer": "skins",
+        "name": "TiDyeBubbleGum",
+        "rarity": "original"
+      },
+      {
+        "id": 5,
+        "layer": "accessories",
+        "name": "Halo",
+        "rarity": "original"
+      },
+      {
+        "id": 13,
+        "layer": "eyes",
+        "name": "VRGoggles",
+        "rarity": "original"
+      },
+      {
+        "id": 4,
+        "layer": "clothing",
+        "name": "Shawl",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "0811621131143",
+    "decodedHash": [
+      {
+        "0": 8
+      },
+      {
+        "1": 16
+      },
+      {
+        "2": 11
+      },
+      {
+        "3": 11
+      },
+      {
+        "4": 3
+      }
+    ],
+    "edition": 24,
+    "date": 1640310139938,
+    "attributes": [
+      {
+        "id": 8,
+        "layer": "weapons",
+        "name": "Trident",
+        "rarity": "original"
+      },
+      {
+        "id": 16,
+        "layer": "skins",
+        "name": "White",
+        "rarity": "original"
+      },
+      {
+        "id": 11,
+        "layer": "accessories",
+        "name": "Tribal Tattoo",
+        "rarity": "original"
+      },
+      {
+        "id": 11,
+        "layer": "eyes",
+        "name": "DemonEyes",
+        "rarity": "original"
+      },
+      {
+        "id": 3,
+        "layer": "clothing",
+        "name": "Hoodie",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "0417263544",
+    "decodedHash": [
+      {
+        "0": 4
+      },
+      {
+        "1": 7
+      },
+      {
+        "2": 6
+      },
+      {
+        "3": 5
+      },
+      {
+        "4": 4
+      }
+    ],
+    "edition": 25,
+    "date": 1640310140624,
+    "attributes": [
+      {
+        "id": 4,
+        "layer": "weapons",
+        "name": "DoubleSword",
+        "rarity": "original"
+      },
+      {
+        "id": 7,
+        "layer": "skins",
+        "name": "BlackBlunt",
+        "rarity": "original"
+      },
+      {
+        "id": 6,
+        "layer": "accessories",
+        "name": "Headband",
+        "rarity": "original"
+      },
+      {
+        "id": 5,
+        "layer": "eyes",
+        "name": "AsianRegular",
+        "rarity": "original"
+      },
+      {
+        "id": 4,
+        "layer": "clothing",
+        "name": "Shawl",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "08121273943",
+    "decodedHash": [
+      {
+        "0": 8
+      },
+      {
+        "1": 21
+      },
+      {
+        "2": 7
+      },
+      {
+        "3": 9
+      },
+      {
+        "4": 3
+      }
+    ],
+    "edition": 26,
+    "date": 1640310141322,
+    "attributes": [
+      {
+        "id": 8,
+        "layer": "weapons",
+        "name": "Trident",
+        "rarity": "original"
+      },
+      {
+        "id": 21,
+        "layer": "skins",
+        "name": "Zombie",
+        "rarity": "original"
+      },
+      {
+        "id": 7,
+        "layer": "accessories",
+        "name": "Mohawk",
+        "rarity": "original"
+      },
+      {
+        "id": 9,
+        "layer": "eyes",
+        "name": "Blk_WhGlasses",
+        "rarity": "original"
+      },
+      {
+        "id": 3,
+        "layer": "clothing",
+        "name": "Hoodie",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "021172931044",
+    "decodedHash": [
+      {
+        "0": 2
+      },
+      {
+        "1": 17
+      },
+      {
+        "2": 9
+      },
+      {
+        "3": 10
+      },
+      {
+        "4": 4
+      }
+    ],
+    "edition": 27,
+    "date": 1640310142050,
+    "attributes": [
+      {
+        "id": 2,
+        "layer": "weapons",
+        "name": "BowArrows",
+        "rarity": "original"
+      },
+      {
+        "id": 17,
+        "layer": "skins",
+        "name": "WhiteBlunt",
+        "rarity": "original"
+      },
+      {
+        "id": 9,
+        "layer": "accessories",
+        "name": "SmileMask",
+        "rarity": "original"
+      },
+      {
+        "id": 10,
+        "layer": "eyes",
+        "name": "Blk_WhRegular",
+        "rarity": "original"
+      },
+      {
+        "id": 4,
+        "layer": "clothing",
+        "name": "Shawl",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "0214223443",
+    "decodedHash": [
+      {
+        "0": 2
+      },
+      {
+        "1": 4
+      },
+      {
+        "2": 2
+      },
+      {
+        "3": 4
+      },
+      {
+        "4": 3
+      }
+    ],
+    "edition": 28,
+    "date": 1640310142768,
+    "attributes": [
+      {
+        "id": 2,
+        "layer": "weapons",
+        "name": "BowArrows",
+        "rarity": "original"
+      },
+      {
+        "id": 4,
+        "layer": "skins",
+        "name": "AsianKnife",
+        "rarity": "original"
+      },
+      {
+        "id": 2,
+        "layer": "accessories",
+        "name": "Crown",
+        "rarity": "original"
+      },
+      {
+        "id": 4,
+        "layer": "eyes",
+        "name": "AsianGlasses",
+        "rarity": "original"
+      },
+      {
+        "id": 3,
+        "layer": "clothing",
+        "name": "Hoodie",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "03112223444",
+    "decodedHash": [
+      {
+        "0": 3
+      },
+      {
+        "1": 12
+      },
+      {
+        "2": 2
+      },
+      {
+        "3": 4
+      },
+      {
+        "4": 4
+      }
+    ],
+    "edition": 29,
+    "date": 1640310143468,
+    "attributes": [
+      {
+        "id": 3,
+        "layer": "weapons",
+        "name": "Crane",
+        "rarity": "original"
+      },
+      {
+        "id": 12,
+        "layer": "skins",
+        "name": "TiDyeBlunt",
+        "rarity": "original"
+      },
+      {
+        "id": 2,
+        "layer": "accessories",
+        "name": "Crown",
+        "rarity": "original"
+      },
+      {
+        "id": 4,
+        "layer": "eyes",
+        "name": "AsianGlasses",
+        "rarity": "original"
+      },
+      {
+        "id": 4,
+        "layer": "clothing",
+        "name": "Shawl",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "051102531243",
+    "decodedHash": [
+      {
+        "0": 5
+      },
+      {
+        "1": 10
+      },
+      {
+        "2": 5
+      },
+      {
+        "3": 12
+      },
+      {
+        "4": 3
+      }
+    ],
+    "edition": 30,
+    "date": 1640310144433,
+    "attributes": [
+      {
+        "id": 5,
+        "layer": "weapons",
+        "name": "Gun",
+        "rarity": "original"
+      },
+      {
+        "id": 10,
+        "layer": "skins",
+        "name": "BlackSmile",
+        "rarity": "original"
+      },
+      {
+        "id": 5,
+        "layer": "accessories",
+        "name": "Halo",
+        "rarity": "original"
+      },
+      {
+        "id": 12,
+        "layer": "eyes",
+        "name": "LaserEyes",
+        "rarity": "original"
+      },
+      {
+        "id": 3,
+        "layer": "clothing",
+        "name": "Hoodie",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "03111293943",
+    "decodedHash": [
+      {
+        "0": 3
+      },
+      {
+        "1": 11
+      },
+      {
+        "2": 9
+      },
+      {
+        "3": 9
+      },
+      {
+        "4": 3
+      }
+    ],
+    "edition": 31,
+    "date": 1640310145169,
+    "attributes": [
+      {
+        "id": 3,
+        "layer": "weapons",
+        "name": "Crane",
+        "rarity": "original"
+      },
+      {
+        "id": 11,
+        "layer": "skins",
+        "name": "TiDye",
+        "rarity": "original"
+      },
+      {
+        "id": 9,
+        "layer": "accessories",
+        "name": "SmileMask",
+        "rarity": "original"
+      },
+      {
+        "id": 9,
+        "layer": "eyes",
+        "name": "Blk_WhGlasses",
+        "rarity": "original"
+      },
+      {
+        "id": 3,
+        "layer": "clothing",
+        "name": "Hoodie",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "02132831142",
+    "decodedHash": [
+      {
+        "0": 2
+      },
+      {
+        "1": 3
+      },
+      {
+        "2": 8
+      },
+      {
+        "3": 11
+      },
+      {
+        "4": 2
+      }
+    ],
+    "edition": 32,
+    "date": 1640310145948,
+    "attributes": [
+      {
+        "id": 2,
+        "layer": "weapons",
+        "name": "BowArrows",
+        "rarity": "original"
+      },
+      {
+        "id": 3,
+        "layer": "skins",
+        "name": "AsianBubbleGum",
+        "rarity": "original"
+      },
+      {
+        "id": 8,
+        "layer": "accessories",
+        "name": "SamariMask",
+        "rarity": "original"
+      },
+      {
+        "id": 11,
+        "layer": "eyes",
+        "name": "DemonEyes",
+        "rarity": "original"
+      },
+      {
+        "id": 2,
+        "layer": "clothing",
+        "name": "HalfShoulder",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "011132731242",
+    "decodedHash": [
+      {
+        "0": 1
+      },
+      {
+        "1": 13
+      },
+      {
+        "2": 7
+      },
+      {
+        "3": 12
+      },
+      {
+        "4": 2
+      }
+    ],
+    "edition": 33,
+    "date": 1640310146732,
+    "attributes": [
+      {
+        "id": 1,
+        "layer": "weapons",
+        "name": "Bat",
+        "rarity": "original"
+      },
+      {
+        "id": 13,
+        "layer": "skins",
+        "name": "TiDyeBubbleGum",
+        "rarity": "original"
+      },
+      {
+        "id": 7,
+        "layer": "accessories",
+        "name": "Mohawk",
+        "rarity": "original"
+      },
+      {
+        "id": 12,
+        "layer": "eyes",
+        "name": "LaserEyes",
+        "rarity": "original"
+      },
+      {
+        "id": 2,
+        "layer": "clothing",
+        "name": "HalfShoulder",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "051222831341",
+    "decodedHash": [
+      {
+        "0": 5
+      },
+      {
+        "1": 22
+      },
+      {
+        "2": 8
+      },
+      {
+        "3": 13
+      },
+      {
+        "4": 1
+      }
+    ],
+    "edition": 34,
+    "date": 1640310147808,
+    "attributes": [
+      {
+        "id": 5,
+        "layer": "weapons",
+        "name": "Gun",
+        "rarity": "original"
+      },
+      {
+        "id": 22,
+        "layer": "skins",
+        "name": "ZombieBubbleGum",
+        "rarity": "original"
+      },
+      {
+        "id": 8,
+        "layer": "accessories",
+        "name": "SamariMask",
+        "rarity": "original"
+      },
+      {
+        "id": 13,
+        "layer": "eyes",
+        "name": "VRGoggles",
+        "rarity": "original"
+      },
+      {
+        "id": 1,
+        "layer": "clothing",
+        "name": "Armor",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "0819243644",
+    "decodedHash": [
+      {
+        "0": 8
+      },
+      {
+        "1": 9
+      },
+      {
+        "2": 4
+      },
+      {
+        "3": 6
+      },
+      {
+        "4": 4
+      }
+    ],
+    "edition": 35,
+    "date": 1640310148584,
+    "attributes": [
+      {
+        "id": 8,
+        "layer": "weapons",
+        "name": "Trident",
+        "rarity": "original"
+      },
+      {
+        "id": 9,
+        "layer": "skins",
+        "name": "BlackKnife",
+        "rarity": "original"
+      },
+      {
+        "id": 4,
+        "layer": "accessories",
+        "name": "GokuHair",
+        "rarity": "original"
+      },
+      {
+        "id": 6,
+        "layer": "eyes",
+        "name": "Blk_Wh3d",
+        "rarity": "original"
+      },
+      {
+        "id": 4,
+        "layer": "clothing",
+        "name": "Shawl",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "081182731043",
+    "decodedHash": [
+      {
+        "0": 8
+      },
+      {
+        "1": 18
+      },
+      {
+        "2": 7
+      },
+      {
+        "3": 10
+      },
+      {
+        "4": 3
+      }
+    ],
+    "edition": 36,
+    "date": 1640310149327,
+    "attributes": [
+      {
+        "id": 8,
+        "layer": "weapons",
+        "name": "Trident",
+        "rarity": "original"
+      },
+      {
+        "id": 18,
+        "layer": "skins",
+        "name": "WhiteBubbleGum",
+        "rarity": "original"
+      },
+      {
+        "id": 7,
+        "layer": "accessories",
+        "name": "Mohawk",
+        "rarity": "original"
+      },
+      {
+        "id": 10,
+        "layer": "eyes",
+        "name": "Blk_WhRegular",
+        "rarity": "original"
+      },
+      {
+        "id": 3,
+        "layer": "clothing",
+        "name": "Hoodie",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "06122273144",
+    "decodedHash": [
+      {
+        "0": 6
+      },
+      {
+        "1": 22
+      },
+      {
+        "2": 7
+      },
+      {
+        "3": 1
+      },
+      {
+        "4": 4
+      }
+    ],
+    "edition": 37,
+    "date": 1640310150063,
+    "attributes": [
+      {
+        "id": 6,
+        "layer": "weapons",
+        "name": "Rocket",
+        "rarity": "original"
+      },
+      {
+        "id": 22,
+        "layer": "skins",
+        "name": "ZombieBubbleGum",
+        "rarity": "original"
+      },
+      {
+        "id": 7,
+        "layer": "accessories",
+        "name": "Mohawk",
+        "rarity": "original"
+      },
+      {
+        "id": 1,
+        "layer": "eyes",
+        "name": "Asian3d",
+        "rarity": "original"
+      },
+      {
+        "id": 4,
+        "layer": "clothing",
+        "name": "Shawl",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "06118233843",
+    "decodedHash": [
+      {
+        "0": 6
+      },
+      {
+        "1": 18
+      },
+      {
+        "2": 3
+      },
+      {
+        "3": 8
+      },
+      {
+        "4": 3
+      }
+    ],
+    "edition": 38,
+    "date": 1640310150816,
+    "attributes": [
+      {
+        "id": 6,
+        "layer": "weapons",
+        "name": "Rocket",
+        "rarity": "original"
+      },
+      {
+        "id": 18,
+        "layer": "skins",
+        "name": "WhiteBubbleGum",
+        "rarity": "original"
+      },
+      {
+        "id": 3,
+        "layer": "accessories",
+        "name": "ForeheadDiamond",
+        "rarity": "original"
+      },
+      {
+        "id": 8,
+        "layer": "eyes",
+        "name": "Blk_WhEyePatch",
+        "rarity": "original"
+      },
+      {
+        "id": 3,
+        "layer": "clothing",
+        "name": "Hoodie",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "02112931042",
+    "decodedHash": [
+      {
+        "0": 2
+      },
+      {
+        "1": 1
+      },
+      {
+        "2": 9
+      },
+      {
+        "3": 10
+      },
+      {
+        "4": 2
+      }
+    ],
+    "edition": 39,
+    "date": 1640310151501,
+    "attributes": [
+      {
+        "id": 2,
+        "layer": "weapons",
+        "name": "BowArrows",
+        "rarity": "original"
+      },
+      {
+        "id": 1,
+        "layer": "skins",
+        "name": "Asian",
+        "rarity": "original"
+      },
+      {
+        "id": 9,
+        "layer": "accessories",
+        "name": "SmileMask",
+        "rarity": "original"
+      },
+      {
+        "id": 10,
+        "layer": "eyes",
+        "name": "Blk_WhRegular",
+        "rarity": "original"
+      },
+      {
+        "id": 2,
+        "layer": "clothing",
+        "name": "HalfShoulder",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "051232113442",
+    "decodedHash": [
+      {
+        "0": 5
+      },
+      {
+        "1": 23
+      },
+      {
+        "2": 11
+      },
+      {
+        "3": 4
+      },
+      {
+        "4": 2
+      }
+    ],
+    "edition": 40,
+    "date": 1640310152181,
+    "attributes": [
+      {
+        "id": 5,
+        "layer": "weapons",
+        "name": "Gun",
+        "rarity": "original"
+      },
+      {
+        "id": 23,
+        "layer": "skins",
+        "name": "ZombieSmile",
+        "rarity": "original"
+      },
+      {
+        "id": 11,
+        "layer": "accessories",
+        "name": "Tribal Tattoo",
+        "rarity": "original"
+      },
+      {
+        "id": 4,
+        "layer": "eyes",
+        "name": "AsianGlasses",
+        "rarity": "original"
+      },
+      {
+        "id": 2,
+        "layer": "clothing",
+        "name": "HalfShoulder",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "08119253143",
+    "decodedHash": [
+      {
+        "0": 8
+      },
+      {
+        "1": 19
+      },
+      {
+        "2": 5
+      },
+      {
+        "3": 1
+      },
+      {
+        "4": 3
+      }
+    ],
+    "edition": 41,
+    "date": 1640310152897,
+    "attributes": [
+      {
+        "id": 8,
+        "layer": "weapons",
+        "name": "Trident",
+        "rarity": "original"
+      },
+      {
+        "id": 19,
+        "layer": "skins",
+        "name": "WhiteKnife",
+        "rarity": "original"
+      },
+      {
+        "id": 5,
+        "layer": "accessories",
+        "name": "Halo",
+        "rarity": "original"
+      },
+      {
+        "id": 1,
+        "layer": "eyes",
+        "name": "Asian3d",
+        "rarity": "original"
+      },
+      {
+        "id": 3,
+        "layer": "clothing",
+        "name": "Hoodie",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "0713233541",
+    "decodedHash": [
+      {
+        "0": 7
+      },
+      {
+        "1": 3
+      },
+      {
+        "2": 3
+      },
+      {
+        "3": 5
+      },
+      {
+        "4": 1
+      }
+    ],
+    "edition": 42,
+    "date": 1640310153624,
+    "attributes": [
+      {
+        "id": 7,
+        "layer": "weapons",
+        "name": "Sword",
+        "rarity": "original"
+      },
+      {
+        "id": 3,
+        "layer": "skins",
+        "name": "AsianBubbleGum",
+        "rarity": "original"
+      },
+      {
+        "id": 3,
+        "layer": "accessories",
+        "name": "ForeheadDiamond",
+        "rarity": "original"
+      },
+      {
+        "id": 5,
+        "layer": "eyes",
+        "name": "AsianRegular",
+        "rarity": "original"
+      },
+      {
+        "id": 1,
+        "layer": "clothing",
+        "name": "Armor",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "04122831243",
+    "decodedHash": [
+      {
+        "0": 4
+      },
+      {
+        "1": 2
+      },
+      {
+        "2": 8
+      },
+      {
+        "3": 12
+      },
+      {
+        "4": 3
+      }
+    ],
+    "edition": 43,
+    "date": 1640310154402,
+    "attributes": [
+      {
+        "id": 4,
+        "layer": "weapons",
+        "name": "DoubleSword",
+        "rarity": "original"
+      },
+      {
+        "id": 2,
+        "layer": "skins",
+        "name": "AsianBlunt",
+        "rarity": "original"
+      },
+      {
+        "id": 8,
+        "layer": "accessories",
+        "name": "SamariMask",
+        "rarity": "original"
+      },
+      {
+        "id": 12,
+        "layer": "eyes",
+        "name": "LaserEyes",
+        "rarity": "original"
+      },
+      {
+        "id": 3,
+        "layer": "clothing",
+        "name": "Hoodie",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "0611021131541",
+    "decodedHash": [
+      {
+        "0": 6
+      },
+      {
+        "1": 10
+      },
+      {
+        "2": 11
+      },
+      {
+        "3": 15
+      },
+      {
+        "4": 1
+      }
+    ],
+    "edition": 44,
+    "date": 1640310155172,
+    "attributes": [
+      {
+        "id": 6,
+        "layer": "weapons",
+        "name": "Rocket",
+        "rarity": "original"
+      },
+      {
+        "id": 10,
+        "layer": "skins",
+        "name": "BlackSmile",
+        "rarity": "original"
+      },
+      {
+        "id": 11,
+        "layer": "accessories",
+        "name": "Tribal Tattoo",
+        "rarity": "original"
+      },
+      {
+        "id": 15,
+        "layer": "eyes",
+        "name": "ZombieEyes",
+        "rarity": "original"
+      },
+      {
+        "id": 1,
+        "layer": "clothing",
+        "name": "Armor",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "0519233143",
+    "decodedHash": [
+      {
+        "0": 5
+      },
+      {
+        "1": 9
+      },
+      {
+        "2": 3
+      },
+      {
+        "3": 1
+      },
+      {
+        "4": 3
+      }
+    ],
+    "edition": 45,
+    "date": 1640310155880,
+    "attributes": [
+      {
+        "id": 5,
+        "layer": "weapons",
+        "name": "Gun",
+        "rarity": "original"
+      },
+      {
+        "id": 9,
+        "layer": "skins",
+        "name": "BlackKnife",
+        "rarity": "original"
+      },
+      {
+        "id": 3,
+        "layer": "accessories",
+        "name": "ForeheadDiamond",
+        "rarity": "original"
+      },
+      {
+        "id": 1,
+        "layer": "eyes",
+        "name": "Asian3d",
+        "rarity": "original"
+      },
+      {
+        "id": 3,
+        "layer": "clothing",
+        "name": "Hoodie",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "081212431044",
+    "decodedHash": [
+      {
+        "0": 8
+      },
+      {
+        "1": 21
+      },
+      {
+        "2": 4
+      },
+      {
+        "3": 10
+      },
+      {
+        "4": 4
+      }
+    ],
+    "edition": 46,
+    "date": 1640310156579,
+    "attributes": [
+      {
+        "id": 8,
+        "layer": "weapons",
+        "name": "Trident",
+        "rarity": "original"
+      },
+      {
+        "id": 21,
+        "layer": "skins",
+        "name": "Zombie",
+        "rarity": "original"
+      },
+      {
+        "id": 4,
+        "layer": "accessories",
+        "name": "GokuHair",
+        "rarity": "original"
+      },
+      {
+        "id": 10,
+        "layer": "eyes",
+        "name": "Blk_WhRegular",
+        "rarity": "original"
+      },
+      {
+        "id": 4,
+        "layer": "clothing",
+        "name": "Shawl",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "07152231543",
+    "decodedHash": [
+      {
+        "0": 7
+      },
+      {
+        "1": 5
+      },
+      {
+        "2": 2
+      },
+      {
+        "3": 15
+      },
+      {
+        "4": 3
+      }
+    ],
+    "edition": 47,
+    "date": 1640310157400,
+    "attributes": [
+      {
+        "id": 7,
+        "layer": "weapons",
+        "name": "Sword",
+        "rarity": "original"
+      },
+      {
+        "id": 5,
+        "layer": "skins",
+        "name": "AsianSmile",
+        "rarity": "original"
+      },
+      {
+        "id": 2,
+        "layer": "accessories",
+        "name": "Crown",
+        "rarity": "original"
+      },
+      {
+        "id": 15,
+        "layer": "eyes",
+        "name": "ZombieEyes",
+        "rarity": "original"
+      },
+      {
+        "id": 3,
+        "layer": "clothing",
+        "name": "Hoodie",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "03111233142",
+    "decodedHash": [
+      {
+        "0": 3
+      },
+      {
+        "1": 11
+      },
+      {
+        "2": 3
+      },
+      {
+        "3": 1
+      },
+      {
+        "4": 2
+      }
+    ],
+    "edition": 48,
+    "date": 1640310158113,
+    "attributes": [
+      {
+        "id": 3,
+        "layer": "weapons",
+        "name": "Crane",
+        "rarity": "original"
+      },
+      {
+        "id": 11,
+        "layer": "skins",
+        "name": "TiDye",
+        "rarity": "original"
+      },
+      {
+        "id": 3,
+        "layer": "accessories",
+        "name": "ForeheadDiamond",
+        "rarity": "original"
+      },
+      {
+        "id": 1,
+        "layer": "eyes",
+        "name": "Asian3d",
+        "rarity": "original"
+      },
+      {
+        "id": 2,
+        "layer": "clothing",
+        "name": "HalfShoulder",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "04111283541",
+    "decodedHash": [
+      {
+        "0": 4
+      },
+      {
+        "1": 11
+      },
+      {
+        "2": 8
+      },
+      {
+        "3": 5
+      },
+      {
+        "4": 1
+      }
+    ],
+    "edition": 49,
+    "date": 1640310159177,
+    "attributes": [
+      {
+        "id": 4,
+        "layer": "weapons",
+        "name": "DoubleSword",
+        "rarity": "original"
+      },
+      {
+        "id": 11,
+        "layer": "skins",
+        "name": "TiDye",
+        "rarity": "original"
+      },
+      {
+        "id": 8,
+        "layer": "accessories",
+        "name": "SamariMask",
+        "rarity": "original"
+      },
+      {
+        "id": 5,
+        "layer": "eyes",
+        "name": "AsianRegular",
+        "rarity": "original"
+      },
+      {
+        "id": 1,
+        "layer": "clothing",
+        "name": "Armor",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "hash": "01121273241",
+    "decodedHash": [
+      {
+        "0": 1
+      },
+      {
+        "1": 21
+      },
+      {
+        "2": 7
+      },
+      {
+        "3": 2
+      },
+      {
+        "4": 1
+      }
+    ],
+    "edition": 50,
+    "date": 1640310160107,
+    "attributes": [
+      {
+        "id": 1,
+        "layer": "weapons",
+        "name": "Bat",
+        "rarity": "original"
+      },
+      {
+        "id": 21,
+        "layer": "skins",
+        "name": "Zombie",
+        "rarity": "original"
+      },
+      {
+        "id": 7,
+        "layer": "accessories",
+        "name": "Mohawk",
+        "rarity": "original"
+      },
+      {
+        "id": 2,
+        "layer": "eyes",
+        "name": "AsianEye",
+        "rarity": "original"
+      },
+      {
+        "id": 1,
+        "layer": "clothing",
+        "name": "Armor",
+        "rarity": "original"
+      }
+    ]
+  }
+]

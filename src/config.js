@@ -81,7 +81,7 @@ const rarity = [
 
 const edititions = [
     // { series:'renderedSkins', config: renderedSkins, number: 10 },
-    { series:'cryptoMonkz', config: cryptoMonkz, number: 10 },
+    { series:'cryptoMonkz', config: cryptoMonkz, number: 50 },
     // { series:'superMonkz', config: superMonkz, number: 100 },
     // { series:'asianMonkz', config: asianMonkz, number: 30 },
     // { series:'blackMonkz', config: blackMonkz, number: 15 },
