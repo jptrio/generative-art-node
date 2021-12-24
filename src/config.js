@@ -57,13 +57,13 @@ const renderedSkins = [
 
 // FINAL
 const cryptoMonkz = [
-    { name: 'background', number: 24 },
+    // { name: 'background', number: 24 },
     { name: 'weapons', number: 8 },
     { name: 'skins', number: 23 },
     { name: 'accessories', number: 11 },
-    { name: 'clothing', number: 4 },
-    { name: 'jewelry', number: 4 },
     { name: 'eyes', number: 15 },
+    { name: 'clothing', number: 4 },
+    // { name: 'jewelry', number: 4 },
     // { name: 'mouths', number: 12 },
 ];
 

@@ -17,12 +17,8 @@ const canvas = createCanvas(format.width, format.height);
 let ctx = canvas.getContext("2d");
 
 /* @dev Clear the canvas and redraw it */
-const clearCanvas = async () => {
-  ctx.clearRect(0, 0, canvas.width, canvas.height);
-  var w = canvas.width;
-  canvas.width = format.width;
-  canvas.height = format.height;
-  return canvas.getContext("2d");
+const clearCanvas = () => {
+  ctx.clearRect(0, 0, format.width, format.height);
 }
 
 /* @dev We do not need a .env but if we did, we would set the working directory */
@@ -42,6 +38,9 @@ let metadata = [];
 let attributes = [];
 let hash = [];
 let decodedHash = [];
+let rendering = 0;
+
+/* @dev Exists means the image has been created with a unique hash and the meta data is stored here to be later turned into the metadata.json */
 const Exists = new Map();
 
 /* @dev This simply puts how rare an itemm is in the metadata.json */
@@ -114,8 +113,8 @@ const buildSetup = () => {
 };
 
 /* @dev Stores the layer to the .png and writes it to the file */
-const saveLayer = async (_canvas, _edition) => {
-  fs.writeFileSync(`${buildDir}/${_edition}.png`, _canvas.toBuffer("image/png"));
+const saveLayer = async (_canvas, _rendering) => {
+  await fs.writeFileSync(`${buildDir}/${_rendering}.png`, _canvas.toBuffer("image/png"));
 };
 
 /* @dev */
@@ -150,14 +149,26 @@ const addAttributes = (_element, _layer) => {
   });
 };
 
-/* @dev */
-const drawLayer = async (_layer, _edition) => {
+/* @dev Deaw each layer to the context and save it to the canvas */
+const drawLayer = async (_layer, _rendering) => {
+  /* @dev Set a random number for us to use for getting items */
   const rand = Math.random();
-  let element =
-    _layer.elements[Math.floor(rand * _layer.number)] ? _layer.elements[Math.floor(rand * _layer.number)] : null;
+  
+  /* @dev The element is a random layer from the layer number */
+  let element = _layer.elements[Math.floor(rand * _layer.number)] ? _layer.elements[Math.floor(rand * _layer.number)] : null;
+  
+  /* @dev Make sure an element exists else do nothing */
   if (element) {
     addAttributes(element, _layer);
+
+    console.log(`Load Layer Image: ${_layer.location}${element.fileName}`)
     const image = await loadImage(`${_layer.location}${element.fileName}`);
+    
+    if(rendering != _rendering) {
+      clearCanvas();
+      rendering ++;
+    }
+    
     await ctx.drawImage(
       image,
       _layer.position.x,
@@ -165,25 +176,36 @@ const drawLayer = async (_layer, _edition) => {
       _layer.size.width,
       _layer.size.height
     );
-    await saveLayer(canvas, _edition);
+    
+    await saveLayer(canvas, _rendering);
   }
 };
 
 /* @dev */
 const createFiles = async edition => {
+
   /* @dev */
   const layers = layersSetup(layersOrder);
-  /* @dev We set the number of duplicates to prevent an infinite loop. The number of retries shuold never exceed the max available */
+  
+  /* @dev We set the number of duplicates to prevent an infinite loop. 
+  The number of retries shuold never exceed the max available */
   let numDupes = 0;
 
   /* @dev For each monk in each edition */
   for (let i = 1; i <= edition; i++) {
+    
+    console.log('Created Edition: ', edition)
+    
+    /* @dev Loop through the layers for each image */
     await layers.forEach(async (layer) => {
+      /* @dev Write each layer */
       await drawLayer(layer, i);
-      /* @dev Clear the canvas to write a new image */
-      await clearCanvas();
     });
+    
+    /* @dev Create the hash of the characters */
     let key = hash.toString();
+    
+    /* @dev If the current hash exists in the Exists map then we cannot use this image */
     if (Exists.has(key)) {
       console.log(
         `Duplicate creation for edition ${i}. Same as edition ${Exists.get(
@@ -196,7 +218,7 @@ const createFiles = async edition => {
     } else {
       Exists.set(key, i);
       addMetadata(i);
-      console.log("Creating edition " + i);
+      console.log("Minted Edition: ", i);
     }
   }
 };
